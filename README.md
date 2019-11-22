@@ -1,3 +1,16 @@
+# Description
+This project contains:
+Powerpoint explaining the current upgrade process
+Example scripts you can use to test the upgrade 
+
+Please help with updating the content by opening issues. 
+You can ask any question, problem that you are facing, point out the things that may be incorrect or share a good idea.
+Also feel free to share any feedback regarding this project via issues.
+
+We will update the deck based on feedback / requests.
+
+Let's make the upgrade easy together.
+
 
 # Contributing
 
