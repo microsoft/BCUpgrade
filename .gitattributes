@@ -1,0 +1,2 @@
+*.mdf filter=lfs diff=lfs merge=lfs -text
+Upgrade14To16ExtractFieldsToExtensions/14-SourceObjects/Demo[[:space:]]Database[[:space:]]BC[[:space:]](14-0).mdf filter=lfs diff=lfs merge=lfs -text
