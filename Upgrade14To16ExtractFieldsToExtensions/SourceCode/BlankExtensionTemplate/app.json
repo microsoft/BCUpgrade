@@ -1,0 +1,27 @@
+{
+    "id": "3d5b2137-eeeb-4014-8489-41d37f8fc4c3",
+    "name": "Rewards Extension",
+    "publisher":  "ABC",
+    "brief": "Rewards extension",
+    "description": "Best extension for managing rewards",
+    "version":  "14.0.0.0",
+    "privacyStatement":  "https://go.microsoft.com/fwlink/?LinkId=724009",
+    "EULA":  "https://go.microsoft.com/fwlink/?LinkId=724010",
+    "help":  "",
+    "url":  "https://go.microsoft.com/fwlink/?LinkId=724011",
+    "logo":  "",
+    "dependencies":  [
+                     ],
+    "screenshots":  [
+  
+                    ],
+    "platform":  "15.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  50100,
+                         "to":  50110
+                     }
+                 ],
+    "target":  "OnPrem"
+  }
+  

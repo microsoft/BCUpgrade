@@ -1,0 +1,15 @@
+{
+    "id":  "11111111-84ff-417a-965d-222222222222",
+    "name":  "Empty - Base Application",
+    "publisher":  "Microsoft",
+    "version":  "16.1.37881.38204",
+    "logo":  "ExtensionLogo.png",
+    "privacyStatement":  "https://go.microsoft.com/fwlink/?LinkId=724009",
+    "EULA":  "https://go.microsoft.com/fwlink/?linkid=2009120",
+    "help":  "https://go.microsoft.com/fwlink/?linkid=2104024",
+    "url":  "https://go.microsoft.com/fwlink/?LinkId=724011",
+    "platform":  "15.0.0.0",
+    "target":  "OnPrem",
+    "showMyCode":  true,
+    "brief":  "Empty Base Application (W1)"
+}
