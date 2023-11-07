@@ -1,3 +1,5 @@
+This project is not maintained any more. Please go to aka.ms/bccloudmigrationyammer to ask additional questions or to join the discussion
+
 # Description
 This project contains:
 Powerpoint explaining the current upgrade process
