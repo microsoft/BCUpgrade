@@ -1,6 +1,6 @@
 
 # Description
-This project is not maintained any more. Please go to aka.ms/bccloudmigrationyammer to ask additional questions or to join the discussion
+This project is not maintained any more. Please go to https://aka.ms/bccloudmigrationyammer to ask additional questions or to join the discussion
 
 # Old Description
 This project contains:
